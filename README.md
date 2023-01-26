@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ack3rs/ack3rs/main/images/scene.png" width="192" />
+  <img src="https://raw.githubusercontent.com/ack3rs/ack3rs/master/images/scene.png" width="192" />
 </div>
 
 <p align="center">
